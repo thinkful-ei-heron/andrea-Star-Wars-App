@@ -1,0 +1,1 @@
+export const apiKey = 'https://swapi.co/api/'
